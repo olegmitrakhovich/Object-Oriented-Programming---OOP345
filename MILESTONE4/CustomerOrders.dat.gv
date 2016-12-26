@@ -1,0 +1,22 @@
+digraph ordergraph {
+"Joseph Hughes
+HP Z230"->"CPU"[color=blue];
+"Joseph Hughes
+HP Z230"->"Memory"[color=blue];
+"Chris Szalwinski
+HP Z350"->"CPU"[color=blue];
+"Chris Szalwinski
+HP Z350"->"Memory"[color=blue];
+"Chris Szalwinski
+HP Z350"->"SSD"[color=blue];
+"Chris Szalwinski
+HP Z350"->"GPU"[color=blue];
+"Elliott Coleshill
+HP Apollo 1000"->"CPU"[color=blue];
+"Elliott Coleshill
+HP Apollo 1000"->"MEMORY"[color=blue];
+"Elliott Coleshill
+HP Apollo 1000"->"Power Supply"[color=blue];
+"Elliott Coleshill
+HP Apollo 1000"->"GPU"[color=blue];
+}
